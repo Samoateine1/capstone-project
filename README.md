@@ -15,6 +15,7 @@ The following penetration testing tools were assessed:
 - **Wfuzz**
 - **Hydra**
 - **SQLMap**
+- **Owasp Zap**
 
 ## Testing Environment
 
